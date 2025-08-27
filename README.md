@@ -1,4 +1,4 @@
-# 📘 R·Agent 技术演进路径 (V1–V5)
+# 📘 R-Agent-Tech-Hub Mannual
 
 本仓库旨在记录 **R·Agent** 项目在 V1–V5 各阶段的目标、技术路径，以及可参考的开源项目。  
 通过逐步引入 OCR、Prompt 链、多 Agent Pipeline、RAG、RLHF 等技术，构建面向医疗器械注册的智能 RA 助手。  
