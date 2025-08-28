@@ -163,5 +163,4 @@ entry: retrieve
 ## 📚 相关资源
 - [LangGraph 官方文档](https://langchain-ai.github.io/langgraph/)
 - [LangSmith 评测平台](https://smith.langchain.com/)
-- [V3 技术路径详情](../README.md#v3--planner--小模型)
 - [R-Agent-Tech-Hub 项目主页](https://r-agent-tech-hub.github.io/Org_Manual/)
