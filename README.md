@@ -28,6 +28,7 @@
   - ReRank (Cross-Encoder / Cohere / BGE)  
   - RAGTruth / 自动评估  
 - **相关项目**：
+  - [RAGFlow]([https://github.com/ParticleMedia/RAGTruth](https://github.com/infiniflow/ragflow)) — RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
   - [RAGTruth](https://github.com/ParticleMedia/RAGTruth) — 词级事实标注语料库  
   - [ARES](https://github.com/stanford-futuredata/ARES) — RAG 自动评估框架，作者：Jon Saad-Falcon, Omar Khattab, Christopher Potts, Matei Zaharia  
 
