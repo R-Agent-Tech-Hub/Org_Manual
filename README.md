@@ -41,7 +41,7 @@
   - 针对子任务的 LoRA / PEFT 微调  
   - 示例驱动 + 数据对优化  
 - **相关项目**：
-  - [LangGraph](https://github.com/langchain-ai/langgraph) — 有状态 Agent 编排框架  
+  - [LangGraph](docs/workflows/langgraph-workflow-guide.md) — 有状态 Agent 编排框架 (快速落地工作流指南)  
 
 ---
 
