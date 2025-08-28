@@ -41,7 +41,12 @@
   - 针对子任务的 LoRA / PEFT 微调  
   - 示例驱动 + 数据对优化  
 - **相关项目**：
-  - [LangGraph](docs/workflows/langgraph-workflow-guide.md) — 有状态 Agent 编排框架 (快速落地工作流指南)  
+  - [LangGraph](docs/workflows/langgraph-workflow-guide.md) — 有状态 Agent 编排框架 (快速落地工作流指南)
+  - [Open Deep Research](https://github.com/langchain-ai/open_deep_research) — 基于 LangGraph 的多 Agent 深度研究框架
+  - [DeepAgents](https://github.com/langchain-ai/deepagents) — LangChain-ai 的 LLM 驱动自主 Agent 框架
+  - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) — 团队式多 Agent 协作框架 (R-Agent V4 参考)
+  - [Awesome Foundation Agents](https://github.com/luyu-co/awesome-foundation-agents) — 基础 Agent 资源合集
+  - [LLM Agent Papers](https://github.com/yaodongC/LLMAgentPapers) — LLM Agent 必读论文  
 
 ---
 
